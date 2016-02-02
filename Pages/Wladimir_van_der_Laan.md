@@ -7,7 +7,7 @@
 
 # Wladimir van der Laan
 
-**Wladimir van der Laan** is yet another hidden figure behind [Bitcoin](Bitcoin.md), in charge with important aspects of the digital currency and with direct access to the [Bitcoin Core](Bitcoin_Core.md) repository. Just like some of the other developers, Wladimir is also sneaky with his identity, which is why there is not a lot of information available about him. 
+**Wladimir van der Laan** is yet another hidden figure behind [Bitcoin](Bitcoin.md), in charge with important aspects of the digital currency and with direct access to the [Bitcoin Core](Bitcoin_Core.md) repository.
 
 ## Background
 
@@ -25,13 +25,13 @@ However, as a core maintainer, his main task is not to code, but rather to revie
 
 ## Views
 
-When it comes down to his views[3], Wladimir has shared them with the world through a couple of quotes, these being: 
+When it comes down to his views, Wladimir has shared them with the world through a couple of quotes, these being: 
 
-> There is an inherent conflict: because of security risks it is sensible for a wallet to be online as little as possible, whereas a node should be online as much as possible for a stable P2P network.
+> There is an inherent conflict: because of security risks it is sensible for a wallet to be online as little as possible, whereas a node should be online as much as possible for a stable P2P network.[3]
 
-> Because the wallet generates random keys, backup discipline is extremely important right now. For every 100 new keys, or whatever the keypool size is set to, one needs to update their backup.
+> Because the wallet generates random keys, backup discipline is extremely important right now. For every 100 new keys, or whatever the keypool size is set to, one needs to update their backup.[3]
 
-> A single backup would be enough to recover all keys at any later point in time. This would be good for peace of mind.
+> A single backup would be enough to recover all keys at any later point in time. This would be good for peace of mind.[3]
 
 ## Further Reading and Useful Links
 

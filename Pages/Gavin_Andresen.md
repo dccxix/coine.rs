@@ -1,6 +1,6 @@
 | Gavin Andresen | ![Gavin Andresen](https://coine.rs/Images/Uploaded/20160202_29c48.jpg) |
 | -------------- | ---------------------------------------------------------------------- |
-| Residence | Massachusetts, USA |
+| Residence | USA |
 | Affiliations | [Bitcoin Core](Bitcoin_Core.md) (Developer with commit access), [Bitcoin XT](Bitcoin_XT.md) (Developer with commit access), , [Bitcoin Classic](Bitcoin_Classic.md) (Developer with commit access), [Bitcoin Foundation](Bitcoin_Foundation.md) (Chief Scientist) |
 | Website | http://gavinandresen.ninja |
 | Twitter | https://twitter.com/gavinandresen |
@@ -16,7 +16,7 @@ Prior to joining the Bitcoin Foundation, Andresen has been involved in numerous 
 
 ## Background
 
-As Bitcoin’s past is shrouded in mystery, there also isn’t too much information available about its core developers. Fortunately, Gavin Andresen, aged 49, has been a bit more open in regards to his background. Currently based in Amherst, Massachusetts, Gavin Andersen, originally born Gavin Bell, has been involved with technology and coding for a few decades. After successfully graduating in computer science from the Princeton University in 1988, he proceeded to take a job with the Silicon Valley-based computing company Silicon Graphics. Over there, he worked on a couple of important projects for a total of 7 years. Following this, Andresen proceeded to work on a few start-ups and built numerous products such as online games for the blind, 3D drawing software, and more, only to eventually come across Bitcoin in 2010.
+As Bitcoin’s past is shrouded in mystery, there also isn’t too much information available about its core developers. Fortunately, Gavin Andresen, aged 49, has been a bit more open in regards to his background. Currently based in Massachusetts, Gavin Andersen, originally born Gavin Bell[6], has been involved with technology and coding for a few decades. After successfully graduating in computer science from the Princeton University in 1988, he proceeded to take a job with the Silicon Valley-based computing company Silicon Graphics[6]. Over there, he worked on a couple of important projects for a total of 7 years. Following this, Andresen proceeded to work on a few start-ups and built numerous products such as online games for the blind, 3D drawing software, and more, only to eventually come across Bitcoin in 2010.
 
 ## Work Experience
 
@@ -56,11 +56,11 @@ Recently, Andresen stated[5] that he supports [Bitcoin Classic](Bitcoin_Classic.
 
 ## Quotes
 
-> Bitcoin is designed to bring us back to a decentralized currency of the people.
+> Bitcoin is designed to bring us back to a decentralized currency of the people.[7]
 
-> This is like better gold than gold.
+> This is like better gold than gold.[8]
 
-> My vision is really to give people more control over their money in the financial world.
+> My vision is really to give people more control over their money in the financial world.[9]
 
 ## Further Reading and Useful Links
 
@@ -79,3 +79,7 @@ Bitcoin.com AMA: https://forum.bitcoin.com/ama-ask-me-anything-f69/i-m-gavin-and
 [3]: https://bitcoinfoundation.org/transparency/
 [4]: http://cointelegraph.com/news/andresen-proposes-hard-fork-patch-for-bitcoin-xt-critics-remain-skeptical
 [5]: http://gavinandresen.ninja/classic-unlimited-xt-core
+[6]: http://www.technologyreview.com/news/527051/the-man-who-really-built-bitcoin/
+[7]: http://www.coindesk.com/bitcoin-developer-jeff-garzik-on-satoshi-nakamoto-and-the-future-of-bitcoin/
+[8]: http://www.forbes.com/forbes/2011/0509/technology-psilocybin-bitcoins-gavin-andresen-crypto-currency.html
+[9]: http://www.reuters.com/article/us-currency-bitcoin-idUSKBN0ND0YN20150422

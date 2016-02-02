@@ -1,6 +1,6 @@
 | Jonas Schnelli | ![Jonas Schnelli](https://coine.rs/Images/Uploaded/20160202_01ba7_infobox.png) |
 | -------------- | ------------------------------------------------------------------------------ |
-| Residence | Zurich, Switzerland |
+| Residence | Switzerland |
 | Affiliations | [Bitcoin Core](Bitcoin_Core.md) (Developer with commit access) |
 | Twitter | https://twitter.com/_jonasschnelli_ |
 | Reddit | https://reddit.com/user/jonasschnelli |
@@ -12,7 +12,7 @@
 
 ## Background
 
-Prior to becoming a fulltime Bitcoin Core developer, Schnelli has worked on various projects as a programmer, thus bringing them success. Based in Switzerland, Jonas, who is an avid [Bitcoin](Bitcoin.md) enthusiast is also a father, and according to him, a zen-monk aspirant. Due to his strong belief in the potential of the cryptocurrency, he has decided to invest his available time into bringing Bitcoin forward.
+According to his Twitter account[3], prior to becoming a fulltime Bitcoin Core developer, Schnelli has worked on various projects as a programmer, thus bringing them success. Based in Switzerland, Jonas, who is an avid [Bitcoin](Bitcoin.md) enthusiast is also a father, and according to him, a zen-monk aspirant. Due to his strong belief in the potential of the cryptocurrency, he has decided to invest his available time into bringing Bitcoin forward.
  
 ## Work Experience
 
@@ -28,7 +28,7 @@ Schnelli has been a [Bitcoin Core](Bitcoin_Core.md) developer for a good period 
 
 ## Quotes
 
-> Who would regulate the regulators? And who would regulate the regulator’s regulator?
+> Who would regulate the regulators? And who would regulate the regulator’s regulator?[4]
 
 ## Further Reading and Useful Links
 
@@ -40,3 +40,5 @@ Bitcointalk profile: https://bitcointalk.org/index.php?action=profile;u=91435
 
 [1]: https://github.com/jonasschnelli
 [2]: https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-November/011728.html
+[3]: https://twitter.com/_jonasschnelli_
+[4]: https://twitter.com/_jonasschnelli_/status/675280830005174273

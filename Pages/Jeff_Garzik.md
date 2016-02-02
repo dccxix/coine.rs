@@ -1,6 +1,6 @@
 | Jeff Garzik | ![Jeff Garzik](https://coine.rs/Images/Uploaded/20160202_3cb92_infobox.jpg) |
 | ----------- | --------------------------------------------------------------------------- |
-| Residence | Atlanta, Georgia, USA |
+| Residence | USA |
 | Affiliations | [Bitcoin Core](Bitcoin_Core.md) (Developer with commit access), [Bitcoin Classic](Bitcoin_Classic.md) (Developer with commit access), [BitPay](BitPay.md) (Developer), [Bloq](Bloq.md) (Co-founder)|
 | Twitter | https://twitter.com/jgarzik |
 | LinkedIn | https://linkedin.com/in/jeffgarzik |
@@ -12,7 +12,7 @@
 
 ## Background
 
-Garzik studied computer science over at the prestigious Georgia Institute of Technology, from 1992 to 1996 when he graduated. Since that, he has taken numerous employment opportunities and has worked on various projects, most of which contributed to Bitcoin, but also the Internet in general. In fact, Garzik is responsible for writing the original push-pool daemon that is currently being used by all of the pooled miners today. He is also the author of numerous programs and firms such as ethtool, [Bloq](Bloq.md), [Bitcoin Watch](Bitcoin_Watch.md) and more. Together with this, it’s also worth pointing out that he is a strong advocate of Bitcoin and Austrian Economics, who believes that the main benefit of Bitcoin is its deflationary aspect, which makes it superior when compared to fiat.
+Garzik studied computer science over at the prestigious Georgia Institute of Technology, from 1992 to 1996 when he graduated[1]. Since that, he has taken numerous employment opportunities and has worked on various projects, most of which contributed to Bitcoin, but also the Internet in general. In fact, Garzik is responsible for writing the original push-pool daemon that is currently being used by all of the pooled miners today. He is also the author of numerous programs and firms such as ethtool, [Bloq](Bloq.md), [Bitcoin Watch](Bitcoin_Watch.md) and more. Together with this, it’s also worth pointing out that he is a strong advocate of Bitcoin and Austrian Economics, who believes that the main benefit of Bitcoin is its deflationary aspect, which makes it superior when compared to fiat.
 
 ## Work Experience
 
@@ -48,7 +48,7 @@ Garzik has proposed increasing the blocksize limit over to 2MB[3], which is a mo
 
 ## Quotes
 
-> Bitcoin activists and evangelists like me have a bunch of answers. It's borderless, it's irreversible, and there's low risk of fraud.
+> Bitcoin activists and evangelists like me have a bunch of answers. It's borderless, it's irreversible, and there's low risk of fraud.[4]
 
 ## Further Reading and Useful Links
 
@@ -64,3 +64,4 @@ Bitcoin.com AMA: https://forum.bitcoin.com/ama-ask-me-anything/i-m-jeff-garzik-b
 [1]: https://www.linkedin.com/in/jeffgarzik
 [2]: https://twitter.com/jgarzik/status/687352747465830400
 [3]: http://www.coindesk.com/jeff-garzik-submits-proposal-to-double-bitcoin-block-size-limit/
+[4]: http://www.coindesk.com/bitcoin-developer-jeff-garzik-on-altcoins-asics-and-bitcoin-usability/

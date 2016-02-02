@@ -1,6 +1,6 @@
 | Dr. Pieter Wuille | ![Pieter Wuille](https://coine.rs/Images/Uploaded/20160202_cd0a9_infobox.jpg) |
 | ----------------- | ----------------------------------------------------------------------------- |
-| Residence | Zurich, Switzerland |
+| Residence | Switzerland |
 | Affiliations | [Bitcoin Core](Bitcoin_Core.md) (Developer with commit access), [Blockstream](Blockstream.md) (Co-founder, Core Tech Engineer) |
 | Twitter | https://twitter.com/pwuille |
 | LinkedIn | https://linkedin.com/in/pieterwuille |
@@ -12,7 +12,7 @@
 
 ## Background 
 
-Pieter Wuille was born and raised in Belgium, and is currently living in Zurich, Switzerland. He studied computer science at the prestigious University of Leuven, from 2002 to 2007. He also has a background in mathematics and science, and has taken various courses. His education also includes a PhD in these subjects. 
+Pieter Wuille was born and raised in Belgium, and is currently living in Switzerland[4]. He studied computer science at the prestigious University of Leuven, from 2002 to 2007. He also has a background in mathematics and science, and has taken various courses. His education also includes a PhD in these subjects[1]. 
 
 ## Work Experience
 
@@ -40,3 +40,4 @@ Bitcointalk profile: https://bitcointalk.org/index.php?action=profile;u=2786
 [1]: https://www.linkedin.com/in/pieterwuille
 [2]: https://blockstream.com/team/
 [3]: https://github.com/sipa
+[4]: https://blockstream.com/team/
