@@ -1,9 +1,8 @@
 | Gavin Andresen | ![Gavin Andresen](https://coine.rs/Images/Uploaded/20160202_29c48.jpg) |
 | -------------- | ---------------------------------------------------------------------- |
-| Residence | Amherst, Massachusetts, USA |
+| Residence | Massachusetts, USA |
 | Affiliations | [Bitcoin Core](Bitcoin_Core.md) (Developer with commit access), [Bitcoin XT](Bitcoin_XT.md) (Developer with commit access), , [Bitcoin Classic](Bitcoin_Classic.md) (Developer with commit access), [Bitcoin Foundation](Bitcoin_Foundation.md) (Chief Scientist) |
 | Website | http://gavinandresen.ninja |
-| Reddit | https://reddit.com/user/gavinandresen |
 | Twitter | https://twitter.com/gavinandresen |
 | Reddit | https://reddit.com/user/gavinandresen |
 | LinkedIn | https://linkedin.com/in/gavin-andresen-6987971 |
