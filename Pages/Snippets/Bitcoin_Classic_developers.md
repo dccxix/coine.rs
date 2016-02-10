@@ -1,5 +1,5 @@
 **[Bitcoin Classic](Bitcoin_Classic.md) developers**
 
-[Jonathan Toomim](Jonathan_Toomim.md) • [Gavin Andresen](Gavin_Andresen.md) • [Ahmed Bodiwala](Ahmed_Bodiwala.md) • [Jeff Garzik](Jeff_Garzik.md) • [Peter Rizun](Peter_Rizun.md)
+[Gavin Andresen](Gavin_Andresen.md) • [Jeff Garzik](Jeff_Garzik.md) • [Pedro Pinheiro](Pedro_Pinheiro.md) • [Tom Zander](Tom_Zander.md) •  • [Jon Rumion](Jon_Rumion.md)
 
-[Source]: https://bitcoinclassic.com
+[Source]: https://github.com/bitcoinclassic/bitcoinclassic/releases/tag/v0.11.2.cl1
