@@ -7,7 +7,7 @@
 
 # Bitcoin Classic
 
-**Bitcoin Core** is a [Bitcoin](Bitcoin.md) client, maintained by the Bitcoin Classic developers. Bitcoin Classic is a one-feature patch to [Bitcoin Core](Bitcoin_Core.md) that increases the blocksize limit to 2 MB as a hard fork.
+**Bitcoin Classic** is a [Bitcoin](Bitcoin.md) client, maintained by the Bitcoin Classic developers. Bitcoin Classic is a one-feature patch to [Bitcoin Core](Bitcoin_Core.md) that increases the blocksize limit to 2 MB as a hard fork.
 
 ## Bitcoin Classic developers
 
