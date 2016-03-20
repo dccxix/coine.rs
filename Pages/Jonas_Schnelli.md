@@ -1,4 +1,4 @@
-| Jonas Schnelli | ![Jonas Schnelli](https://coine.rs/Images/Uploaded/20160202_01ba7_infobox.png) |
+| Jonas Schnelli | ![Jonas Schnelli](https://coine.rs/Images/Uploaded/20160320_09249_infobox.png) |
 | -------------- | ------------------------------------------------------------------------------ |
 | Residence | Switzerland |
 | Affiliations | [Bitcoin Core](Bitcoin_Core.md) (Developer with commit access) |
